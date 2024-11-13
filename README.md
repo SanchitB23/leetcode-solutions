@@ -6,5 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2487-optimal-partition-of-string](https://github.com/SanchitB23/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SanchitB23/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+## Hash Table
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/SanchitB23/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/SanchitB23/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
