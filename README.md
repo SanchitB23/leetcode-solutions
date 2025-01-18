@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanchitB23/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/SanchitB23/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/SanchitB23/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2058-concatenation-of-array](https://github.com/SanchitB23/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SanchitB23/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanchitB23/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanchitB23/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SanchitB23/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
