@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SanchitB23/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/SanchitB23/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/SanchitB23/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SanchitB23/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/SanchitB23/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Linked List
 |  |
