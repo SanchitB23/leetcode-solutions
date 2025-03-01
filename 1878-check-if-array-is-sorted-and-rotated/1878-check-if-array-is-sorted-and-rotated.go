@@ -1,16 +1,12 @@
 func check(nums []int) bool {
-	isRotated := false
+	count := 0
 	for i := 1; i < len(nums); i++ {
 		if nums[i-1] > nums[i] {
-			if isRotated {
-				return false
-			}
-			isRotated = true
+			count++
 		}
 	}
-	first, last := nums[0], nums[len(nums)-1]
-	if isRotated && first < last {
-		return false
+	if nums[len(nums)-1] > nums[0] {
+		count++
 	}
-	return true
+	return count <= 1
 }
