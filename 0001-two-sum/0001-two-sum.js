@@ -6,8 +6,12 @@
 var twoSum = function (nums, target) {
     const map = {}
     for (let i = 0; i < nums.length; i++) {
-        const comp = target - nums[i]
-        if (map.hasOwnProperty(comp)) return [map[comp], i];
-        else map[nums[i]] = i
+        const n = nums[i]
+        const complement = target - n;
+        if (map.hasOwnProperty(complement)) {
+            return [i, map[complement]]
+        } else {
+            map[n] = i;
+        }
     }
 };
