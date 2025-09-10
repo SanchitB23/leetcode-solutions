@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanchitB23/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/SanchitB23/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SanchitB23/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2487-optimal-partition-of-string](https://github.com/SanchitB23/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SanchitB23/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanchitB23/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanchitB23/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SanchitB23/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SanchitB23/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanchitB23/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanchitB23/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
