@@ -3,6 +3,10 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-    const set = new Set(nums);
-    return set.size !== nums.length
+    const s = new Set()
+    for (n of nums ){
+        if (s.has(n)) return true
+        else s.add(n)
+    }
+    return false
 };
