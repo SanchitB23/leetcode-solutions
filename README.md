@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SanchitB23/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/SanchitB23/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
