@@ -4,10 +4,10 @@
  * @return {number[]}
  */
 var twoSum = function (numbers, target) {
-    const m = {}
-    for (let i = 0; i < numbers.length; i++) {
-        const c = target - numbers[i]
-        if (m.hasOwnProperty(c)) return [m[c] + 1, i + 1]
-        else m[numbers[i]] = i
+    let i = 0, j = numbers.length - 1
+    while (i < j) {
+        if (target > (numbers[i] + numbers[j])) { i++; continue; }
+        if (target < (numbers[i] + numbers[j])) { j--; continue; }
+        return [i + 1, j + 1]
     }
 };
