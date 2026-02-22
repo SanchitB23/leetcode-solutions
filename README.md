@@ -162,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/SanchitB23/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0899-binary-gap](https://github.com/SanchitB23/leetcode-solutions/tree/master/0899-binary-gap) |
 <!---LeetCode Topics End-->
